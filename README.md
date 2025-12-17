@@ -20,15 +20,15 @@ AcadSync solves this by providing a single source of truth for all student-relat
 
 🚀 Key Features
 
-📊 Student Dashboard with GPA, enrolled courses, activities, and achievements
+Student Dashboard with GPA, enrolled courses, activities, and achievements
 
-🧑‍🎓 Academic Record Management (courses, grades, schedules)
+Academic Record Management (courses, grades, schedules)
 
-🏆 Activity & Achievement Tracking (co-curricular & extracurricular)
+Activity & Achievement Tracking (co-curricular & extracurricular)
 
-👥 Role-Based Access Control for Students, Faculty, and Administrators
+Role-Based Access Control for Students, Faculty, and Administrators
 
-📈 OBE Outcome Mapping of activities and achievements
+OBE Outcome Mapping of activities and achievements
 
 🗂 Centralized Data Management ensuring accuracy and transparency
 
